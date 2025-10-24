@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jrhfv0uUsPMWzeqhoB5AgDEH1+D4HHsMqR3hSO+rq1VRrDWbaVjiLDYPt7YCmjW9jVvtuk9JPqTJe9fSkDTsAg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\andy2\\Desktop\\BetterBlackMarket\\BetterBlackMarket.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andy2\\.nuget\\packages\\lib.harmony\\2.4.1\\lib.harmony.2.4.1.nupkg.sha512",
+    "C:\\Users\\andy2\\.nuget\\packages\\lib.harmony.ref\\2.4.1\\lib.harmony.ref.2.4.1.nupkg.sha512",
+    "C:\\Users\\andy2\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
