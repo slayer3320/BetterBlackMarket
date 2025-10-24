@@ -20,6 +20,6 @@
 
 ### 非Steam平台Windows玩家
 
-1. 打开网页Release，下载Mod压缩包
+1. 打开网页[Release](https://github.com/slayer3320/BetterBlackMarket/releases)，下载Mod压缩包
 2. 打开游戏安装目录，在Duckov_Data文件夹下创建Mods文件夹，将压缩包解压到Mods文件夹下
 3. 打开游戏，主菜单进入Mods界面，勾选Mod
